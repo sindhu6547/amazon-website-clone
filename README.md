@@ -1,2 +1,2 @@
 # amazon-website-clone
-Static Amazon.com website clone built with HTML and CSS, replicating layout, product sections, and header for practice and learning.
+Amazon Clone built using only HTML and CSS. This project recreates the layout of Amazon’s homepage, including the navbar, search bar, hero section, product boxes, and footer. It focuses on practicing UI design, layout structure, responsive styling, and front-end development fundamentals.
