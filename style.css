@@ -1,0 +1,411 @@
+
+body{
+    font-family: Arial,sans-serif;
+    background-color: rgb(218, 221, 223);
+  
+}.const-first{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.location-pin{
+    padding: 4px;
+    background-color: black;
+    display: flex;
+}
+.upt-location{
+    font-size: 14px;
+    text-decoration: white;
+    background-color: black;
+    font-weight: bold;
+   padding-top: 0;
+    margin: 0;
+    padding: 0;
+}
+.deliver-class{
+    font-size:14px;
+    color:white;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 0;
+}
+.container{
+    display: flex;
+}
+.select-option{
+    height: 50px;
+    width: 50px;
+    background-color:grey;
+    color: white;
+    
+}
+.input-text{
+    height: 50px;
+    width: 460px;
+
+}
+.img1-sty{
+    height: 70px;
+    width: 150px;
+}
+.search-class{
+    height: 60px;
+    width: 50px;
+   
+}
+.flag-class{
+    height: 5%;
+    width: 70px;
+    padding-left: 5px;
+    padding-right: 2px;
+    background-color: black;
+    color: white;
+}
+.select-acc{
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    padding-left: 5px; padding-right: 3px;
+}
+.img-flag{
+    height: 50px;
+    width: 40px;
+}
+.cart-class{
+    height: 70px;
+    width: 70px;
+   padding-left: 5px;
+    padding-right: 3px;
+}
+.bg-img-cls{
+    display: block;
+    
+}
+.nav-inti{
+    background-color: rgb(3, 3, 31);
+}
+.nav-ele{
+   
+}
+.button-cls{
+    background-color: rgb(3, 3, 31);
+    color: white;
+     padding-top: 8px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    border: none; 
+
+}
+.button-cls:hover{
+    border: 2px solid white;
+}
+.button-cls-img{
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.theory{
+    padding: 0;
+    margin: 0;
+}
+.return-cls{
+    font-size: 12px;
+    padding-left: 5px;
+     padding-right: 3px;
+     padding-top: 7px;
+}
+.oders-clsP{
+    font-weight: bold;
+    color: white; 
+    background-color: black;
+    font-size: 16px;
+    padding-left: 5px;
+     padding-right: 3px;
+}
+.cart-cls{
+    font-weight: bold;
+    font-size: 17px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 5px; 
+    padding-right: 3px;
+}
+.category-cls{
+    background-color:rgb(186, 188, 190);
+    padding:8px 8px 8px 8px;
+    color: white;
+    width: 60px;
+    height: 50px;
+    border: none;
+}
+body {
+  font-family: Arial, sans-serif;
+ 
+}
+.fashion-card {
+  background-color: white;
+  padding: 20px;
+  width: 320px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  /* text-align: center; */
+}
+
+.fashion-card h2 {
+  font-size: 23px;
+  margin-bottom: 15px;
+  color: #111;
+}
+
+.fashion-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.item img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.item p {
+  font-size: 12px;
+  margin-top: 6px;
+  color:black;
+}
+
+.see-deals {
+  display: inline-block;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: #007185;
+ font-size: 12px;
+ margin-top: 10px;
+}
+
+.see-deals:hover {
+  color: grey;
+}
+.hoi-cls{
+    /* width: 100px; */
+    height: 190px;
+}
+.hoi-cls:hover{
+    cursor: pointer;
+}
+.hori-inti{
+ border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  margin-top: 15px;
+  margin-bottom:15px;
+  background-color: white;
+  padding: 20px;
+
+}
+.hori2-cls{
+ padding-left: 10px;
+ padding-right: 10px;
+  margin-left: 5px;
+ margin-right: 7px;
+}
+.hori1-cls{
+     margin-left: 10px;
+    margin-right: 5px;
+}
+.personal-cls{
+    margin: 3px solid black;
+    text-align: center;
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.sign-cls{
+    background-color: rgb(230, 216, 32);
+    width: 220px;
+    text-align: center;
+    height: 35px;
+    border:rgb(230, 216, 32);
+    border-radius: 25px;
+    font-size: 15px;
+}
+.sign-cls:hover{
+    cursor: pointer;
+}
+.aper-cls{
+    cursor: pointer;
+}
+.custo-cls{
+    font-size: 10px;
+}
+.backtop-cls{
+    background-color: rgb(39, 66, 94);
+    text-align: center;
+    color: white;
+    height: 40px;
+    padding-top: 29px;
+}
+.backtop-cls:hover{
+    cursor: pointer;
+    background-color: rgb(50, 83, 119) ;
+}
+.info-cls{
+    background-color: rgb(27, 45, 66);
+    padding: 60px;
+    color: white;
+    display:flex;
+    font-size: 13px;
+
+}
+.sepinfo-class{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.pinfo-cls{
+    padding: 0;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+.pinfo-cls:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.hov:hover{
+    cursor: pointer;
+}
+.end1-cls{
+    background-color:rgb(15, 26, 39);
+    color: rgba(255, 255, 255, 0.486);
+    font-size: 12px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-right:90px ;
+    padding-left: 90px;
+    display: flex;
+}
+.end1:hover{
+    cursor: pointer;
+}
+.pend-cls{
+    padding-bottom: -2px;
+    padding: 0;
+    margin: 0;
+    margin-top: 26px;
+    color: rgba(255, 255, 255, 0.712);
+}
+.p-last{
+    padding-left: 20px;
+    padding-right: 25px;
+}
+.phover-cls{
+     padding: 0;
+    margin: 0;
+}
+.phover-cls:hover{
+    text-decoration: underline;
+
+}
+.privacy{
+    text-align: center;
+    background-color:rgb(15, 26, 39);
+    color: rgba(255, 255, 255, 0.795);
+    font-size: 13px;
+    padding-bottom: 30px;
+    line-height: 1;
+}
+.linehei-cls{
+    padding: 0;
+    margin: 0;
+    padding-bottom: 5px;
+}
+.last-button{
+      text-align: center;
+    background-color:rgb(15, 26, 39);
+    color: white;
+   
+}
+.last-select{
+     text-align: center;
+    background-color:rgb(15, 26, 39);
+    color: white;
+    width: 120px;
+    height: 30px;
+     margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-left: 5px;
+    border-color: white;
+}
+.last-button:hover{
+    cursor: pointer;
+}
+.la-button{
+     text-align: center;
+    background-color:rgb(15, 26, 39);
+    color: white;
+      width: 150px;
+    height: 30px;
+     margin-top: 20px;
+    margin-bottom: 10px;
+    border-color: white;
+    margin-left: 5px;
+    margin-right: 7px;
+}
+.la-button{
+    cursor: pointer;
+}
+.drop {
+  width: 40px;
+  height: 40px;
+  background: black;
+  position: relative;
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  transform: rotate(180deg);
+}
+.p-class-bg{
+    color:black;
+    background-color:white;
+    text-align:center;
+    padding-top:15px;
+    padding-bottom:15px;
+    display: flex;
+    height: 30px;
+    width: 1200px;
+    justify-content: center;
+}
+.a-class-bg:hover{
+    cursor:pointer;
+    text-decoration: underline;
+    color: skyblue;
+}
+.black-friday-hero{
+   
+    background-size: cover;
+    border-radius: 8px;
+    padding-top: 300px;
+    background: linear-gradient(to bottom,
+     rgba(255,255,255,0) 0%,
+     rgba(255,255,255,1) 100%),
+     url("images/bg-img-1--1.jpg");
+    overflow: hidden;
+    object-fit:fill;
+}
+.fashion-card-1{
+     background-color: white;
+  padding: 20px;
+  width: 270px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  height: 350px;
+  /* text-align: center; */
+}
+.img-box{
+
+  width: 1400px;          /* fixed width */
+  background-color: #fff;
+  position: relative;
+  overflow: hidden;
+}
